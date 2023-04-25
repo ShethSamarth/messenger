@@ -5,4 +5,4 @@
 ![NextJS](https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)
 Redis
 
-Redis is used as a database for retrieving messages instantly.
+A real-time messaging programme that looks similar to Facebook Messenger. Not completed yet. Authentication is still pending. Redis is used as a database for retrieving messages instantly.
